@@ -48,7 +48,7 @@ npm install
 ```env
 NODE_ENV=development
 PORT=5000
-MONGO_URI=mongodb://127.0.0.1:27017/taskmanager
+MONGO_URI=mongodburl
 JWT_SECRET=your_super_secret_jwt_key_here_change_this_in_production
 JWT_EXPIRE=30d
 CLIENT_URL=http://localhost:5173
