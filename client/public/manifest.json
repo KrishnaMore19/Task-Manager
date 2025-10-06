@@ -1,0 +1,22 @@
+{
+  "short_name": "Tasks",
+  "name": "Task Manager - Organize Your Life",
+  "icons": [
+    {
+      "src": "/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0ea5e9",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#0ea5e9",
+  "description": "Task Manager - Organize your tasks with beautiful animations"
+}
